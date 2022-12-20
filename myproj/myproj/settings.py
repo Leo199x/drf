@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-arhvis_to627&)pem2%-_oqt$-ax!=9x2y+is=5_tbw7(k@d60
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
